@@ -1,0 +1,334 @@
+{
+  "level1": [
+    {
+      "title0": "缴费",
+      "icon": "jiaofei",
+      "children": [
+        {
+          "title1": "物业费",
+          "url": "wuye"
+        },
+        {
+          "title1": "停车费",
+          "url": "tingche"
+        }
+      ],
+      "children1": [
+        {
+          "title1": "物业费",
+          "url": "wuye",
+          "icon": "jiaofei",
+          "chi": [
+            {
+              "title1": "物业费",
+              "url": "wuye"
+            },
+            {
+              "title1": "停车费",
+              "url": "tingche"
+            }
+          ]
+        }
+      ],
+      "imgUrl": "jiaofei1.png"
+    },
+    {
+      "title0": "家庭维修",
+      "icon": "jiating",
+      "children": [
+        {
+          "title1": "房屋",
+          "url": "fangwu"
+        },
+        {
+          "title1": "家电",
+          "url": "jiadian"
+        },
+        {
+          "title1": "家具",
+          "url": "jiaju"
+        }
+      ],
+      "children1": [
+        {
+          "title1": "房屋维修",
+          "url": "fangwuweixiu",
+          "icon":"fangwu",
+          "chi": [
+            {
+              "title1": "防水补漏",
+              "url": "fangshuibulou"
+            },
+            {
+              "title1": "卫浴/洁具维修",
+              "url": "weiyu"
+            },
+            {
+              "title1": "灯具维修/安装",
+              "url": "dengju"
+            },
+            {
+              "title1": "电路维修/安装",
+              "url": "dianluweixiu"
+            },
+            {
+              "title1": "卫水管/水龙头维修浴",
+              "url": "weishuiguan"
+            },
+            {
+              "title1": "暖气水管维修/安装",
+              "url": "luanqiguan"
+            }
+          ]
+        },
+        {
+          "title1": "家电维修",
+          "url": "jiadianweixiu",
+          "icon": "jiadian",
+          "chi": [
+            {
+              "title1": "空调",
+              "url": "kongtiao"
+            },
+            {
+              "title1": "电视",
+              "url": "dianshi"
+            },
+            {
+              "title1": "厨房家电",
+              "url": "cudian"
+            },
+            {
+              "title1": "热水器",
+              "url": "reshuiqi"
+            },
+            {
+              "title1": "小家电",
+              "url": "xiaojiadian"
+            },
+            {
+              "title1": "影音家电",
+              "url": "yingyinjiadian"
+            }
+          ],
+          "imgUrl": ""
+        },
+        {
+          "title1": "家具维修",
+          "url": "家具维修",
+          "icon": "jiaofei",
+          "chi": [
+            {
+              "title1": "沙发",
+              "url": "safa"
+            },
+            {
+              "title1": "桌椅柜",
+              "url": "zhuoyigui"
+            },
+            {  
+              "title1": "地板",
+              "url": "diban"
+            },
+            {
+              "title1": "办公家具",
+              "url": "bangongjiaju"
+            },
+            {
+              "title1": "钟表",
+              "url": "zhongbiao"
+            }
+          ]
+        }]
+        },
+
+
+
+        {
+          "title0": "家具维修",
+          "icon": "jiaju",
+          "children": [
+            {
+              "title1": "保洁",
+              "url": "baojie"
+            },
+            {
+              "title1": "疏通管道",
+              "url": "shutongguandao"
+            }
+          ],
+          "children1": [            
+            {
+              "title1": "保洁清洗",
+              "url": "baojie",
+              "icon": "baojie",
+              "chi": [
+                {
+                  "title1": "物业保洁",
+                  "url":"baojie"
+                },
+                {
+                  "title1": "开荒保洁",
+                  "url": "kaihuangbaojie"
+                },{
+                  "title1": "家庭保洁",
+                  "url": "jiatingbaojie"
+                },
+                {
+                  "title1": "空调清洗",
+                  "url": "kongtiaoqingxi"
+                },{
+                  "title1": "冰箱清洗",
+                  "url": "qignxiangqingxi"
+                },{
+                  "title1": "洗衣机清洗",
+                  "url": "xiyijiqingix"
+                },{
+                  "title1": "饮水机清洗",
+                  "url": "yinshuijiqingxi"
+                },{
+                  "title1": "热水器清洗",
+                  "url": "reshuiqiqingxi"
+                },{
+                  "title1": "灯具清洗",
+                  "url": "dengjuqingxi"
+                },{
+                  "title1": "油烟机清洗",
+                  "url": "youyanjiqingxi"
+                },{
+                  "title1": "地毯清洗",
+                  "url": "ditanqingxi"
+                },{
+                  "title1": "地暖清洗",
+                  "url": "dinuanqingix"
+                },
+                {
+                  "title1": "沙发清洗",
+                  "url": "shafaqingxi"
+                },
+                {
+                  "title1": "玻璃清洗",
+                  "url": "boliqingxi"
+                },
+                {
+                  "title1": "壁纸清洗",
+                  "url": "biziqingxi"
+                },
+                {
+                  "title1": "除虫除蚁",
+                  "url": "chuchongchuyi"
+                },
+                {
+                  "title1": "空气净化",
+                  "url": "kognqijinghua"
+                }
+              ]
+            },
+            {
+              "title1": "管道疏通",
+              "url": "guandaoshutong",
+              "icon": "guandao",
+              "chi": [
+                {
+                  "title1": "马桶疏通",
+                  "url": "matongshutong"
+                },
+                {
+                  "title1": "下水道疏通",
+                  "url": "xiashuidaoshutong"
+                },
+                {
+                  "title1": "化粪池清理",
+                  "url": "huafenciqingli"
+                },
+                {
+                  "title1": "隔油池维修/清理",
+                  "url": "geyouci"
+                },
+                {
+                  "title1": "市政管道清淤",
+                  "url": "shizhengguan"
+                },
+                {
+                  "title1": "管道安装／改造",
+                  "url": "guandaoanzhuang"
+                },
+                {
+                  "title1": "打捞",
+                  "url": "dalao"
+                }
+              ]
+            }
+          ],
+          "imgUrl": ""
+        },
+
+
+
+
+        {
+          "title0": "家政",
+          "icon": "jiazheng",
+          "children": [
+            {
+              "title1": "保姆",
+              "url": "baomu"
+            },
+            {
+              "title1": "月嫂",
+              "url": "yuesao"
+            },
+            {
+              "title1": "钟点工",
+              "url": "zhongdiangong"
+            }
+          ],
+          "children1": [
+            {
+              "title1": "家政",
+              "url": "jiazheng",
+              "icon": "jiaofei",
+              "chi": [        
+                {
+                  "title1": "保姆",
+                  "url": "baomu"
+                },
+                {
+                  "title1": "钟点工",
+                  "url": "zhongdiangong"
+                },
+                {
+                  "title1": "月嫂",
+                  "url": "yuesao"
+                },
+                {
+                  "title1": "育婴师/育儿嫂",
+                  "url": "yuyingshi"
+                },
+                {
+                  "title1": "催乳师",
+                  "url": "cuirushi"
+                },
+                {
+                  "title1": "月子中心",
+                  "url": "yuezizhongxin"
+                },
+                {
+                  "title1": "陪护",
+                  "url": "peihu"
+                },
+                {
+                  "title1": "管家",
+                  "url": "guanjia"
+                },
+                {
+                  "title1": "涉外家政",
+                  "url": "shewaijiazheng"
+                }
+              ]
+            }
+          ],
+          "imgUrl": "jiazheng1.png"
+        }
+      ]
+    }
